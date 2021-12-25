@@ -11,3 +11,14 @@ The project revolved around studying and finding:
 For:
 - Denoising and de-occlusion on MNIST handwritten digit database
 - Denoising and de-occlusion on Yale Faces Database
+
+RESULTS PICS:
+
+- **Natural**
+![alt text](https://github.com/begbaj/denoising-autoencoder/blob/main/test_results/natural.png?raw=true)
+
+- **Noised**
+![alt text](https://github.com/begbaj/denoising-autoencoder/blob/main/test_results/noised.png?raw=true)
+
+- **Occluded**
+![alt text](https://github.com/begbaj/denoising-autoencoder/blob/main/test_results/occluded.png?raw=true)
